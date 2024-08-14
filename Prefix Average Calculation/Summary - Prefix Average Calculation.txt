@@ -1,0 +1,5 @@
+EN
+It calculates the prefix averages of an array using different methods and compares the execution times of these methods.
+
+TR
+farklı yöntemlerle bir dizinin prefix ortalamalarını hesaplayıp bu yöntemlerin çalışma sürelerini karşılaştırmaktadır.

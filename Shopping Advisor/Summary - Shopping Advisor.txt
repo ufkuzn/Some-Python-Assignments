@@ -1,0 +1,5 @@
+EN
+The program asks the user how many of a particular product they will purchase and retrieves the relevant product information from a JSON file to calculate the total expenditure.
+
+TR
+Kullanıcıya hangi üründen kaç tane alacağını sorar ve ilgili ürünün bilgilerini bir json dosyasından çekerek harcama toplamını verir.

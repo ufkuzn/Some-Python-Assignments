@@ -1,0 +1,5 @@
+EN
+A transfer learning approach is used to train an image classification model. A model based on MobileNetV2 is created, its performance is evaluated after training, and the model is saved.
+
+TR
+Bir görüntü sınıflandırma modelini eğitmek için bir transfer öğrenme yaklaşımı kullanılır. MobileNetV2 tabanlı bir model oluşturulur, eğitimden sonra performansı değerlendirilir ve model kaydedilir.

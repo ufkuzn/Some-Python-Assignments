@@ -1,0 +1,5 @@
+EN
+It analyzes and cleans NBA game scores and McDonald's menu data, then evaluates the results using clustering and regression modeling methods.
+
+TR
+NBA maç skorlarını ve McDonald's menü verilerini analiz eder, temizler, kümeler ve regresyon modelleme yöntemleriyle sonuçları değerlendirir.

@@ -1,0 +1,5 @@
+EN
+It provides two functions to encrypt and decrypt a text using a simple Caesar cipher method. After the user inputs the number of letters to shift for encryption, the program returns the encrypted text and then retrieves the original text.
+
+TR
+Bir metni basit bir Sezar şifreleme yöntemiyle kriptolamak ve ardından çözmek için iki fonksiyon sunar. Kullanıcı, metni kaç harf kaydırarak şifrelemek istediğini girdikten sonra, program şifrelenmiş metni ve ardından orijinal metni geri elde eder.

@@ -1,0 +1,5 @@
+EN
+It analyzes automotive sales data using various machine learning models to predict car brands, models, and prices. The results include the basic features of the dataset along with error analyses that measure the accuracy of the predictions.
+
+TR
+otomobil satış verilerini analiz ederek çeşitli makine öğrenmesi modelleri kullanarak otomobil markası, modeli ve fiyat tahminleri yapar. Sonuçlar, tahminlerin doğruluğunu ölçen hata analizleriyle birlikte veri setinin temel özelliklerini sunar.

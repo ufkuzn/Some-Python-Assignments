@@ -1,0 +1,5 @@
+EN
+Text data is classified using two types of models: Naive Bayes and LSTM. Both models aim to classify the text data as either fake or real.
+
+TR
+İki tür model(Naive Bayes ve LSTM) kullanılarak metin verilerini sınıflandırılır. Her iki model de metin verilerini sahte veya gerçek olarak sınıflandırmayı amaçlar.

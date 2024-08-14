@@ -1,0 +1,5 @@
+EN
+A deep learning model is created and trained to classify potato diseases.
+
+TR
+Patates hastalıklarını sınıflandırmak için bir derin öğrenme modeli oluşturulur ve eğitilir

@@ -1,0 +1,5 @@
+EN
+It performs data cleaning on a mobile phone dataset, creates a linear regression model using specific features, and uses this model to predict prices.
+
+TR
+mobil telefon veri seti üzerinde veri temizleme işlemlerini gerçekleştirerek, belirli özellikler kullanılarak doğrusal regresyon modeli oluşturmak ve bu modeli kullanarak fiyat tahmini yapar. 

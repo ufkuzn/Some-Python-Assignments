@@ -1,0 +1,5 @@
+EN
+It calculates the symbol table creation time, average put time, average get time (hit), and average get time (miss) for different data structures using a txt file.
+
+TR
+Farklı veri yapılarının bir txt dosyası üzerinden sembol tablosu oluşturma süresi, ortalama put süresi, ortalama get süresi(hit) ve ortalama get süresini(miss) hesaplama 
